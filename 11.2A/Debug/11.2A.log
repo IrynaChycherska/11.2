@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\1 курс\АП\11.2A\11.2A\Source.cpp(100,15): warning C4101: 'kurs': unreferenced local variable
+D:\1 курс\АП\11.2A\11.2A\Source.cpp(260,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  11.2A.vcxproj -> D:\1 курс\АП\11.2A\Debug\11.2A.exe
